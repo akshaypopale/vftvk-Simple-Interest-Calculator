@@ -4,12 +4,14 @@ h1{color:grey;font-family:verdana;text-align:center}
     background-color:white;
     color:black;
     margin:auto;
-    width:350px;
+    width:35%;
     padding:20px;
     border-radius:25px;
 }
-footer{
-    text-align: center;
+.childdiv{
+    margin-left:15%;
 }
-
-
+.number{margin-left:80px;}
+.range{margin-left:44px;width:170px;}
+.select{margin-left:48px;}
+footer{text-align:left;}
